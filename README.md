@@ -1,16 +1,12 @@
-# 🏄‍♂️ M Sayeem Ahmed
+# <h3 align="center"> Hellow, I am M Sayeem Ahmed 👋</h3>
 
 **`I'm an indie full-stack developer.`**
 
-
- 
 
 ---
 
 ### 🧰 Languages and Tools
 
-
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -31,12 +27,15 @@
 
 ### 📊 Stats
 
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmedmsayeem&theme=gruvbox&border_radius=4.5) 
+ ![GitHub Streak](https://streak-stats.demolab.com?user=ahmedmsayeem&theme=gruvbox&border_radius=4.5) 
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmsayeem&show_icons=true&theme=gruvbox)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Sayeem_Ahmed?theme=auto&font=patrick_hand&extension=null)
+</div>
+
+
 
 #
 
